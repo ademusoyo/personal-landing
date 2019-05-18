@@ -1,0 +1,50 @@
+
+#my-hero-image{
+  margin-top: 5em;
+  /*width: 25%;
+  margin-right: 7%;*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.logo-image{
+  /*margin-left: 5.25em;*/
+  margin-top: -2em;
+  width: 10%;
+}
+body{
+  background-color: #9D858D !important;
+
+}
+
+.main-headerText{
+  font-size: 48px;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  font-weight: 600;
+  margin: .5em 0 .5em 0;
+
+}
+
+#homepage-header-text{
+  text-align: center;
+}
+
+#homepage-header-sub-text{
+  text-align: center;
+}
+
+
+.main-subText{
+  font-size: 34px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: black;
+}
+
+#social{
+  width: 10%;
+  padding: 0 30px;
+}

@@ -1,0 +1,326 @@
+.banner-image{
+  display: block;
+  width: 50%;
+}
+
+.bm-burger-button {
+  visibility: visible;
+}
+
+#headerButtons{
+  visibility: hidden;
+}
+
+.logo-image{
+  margin-top: -3em;
+  width: 30%;
+}
+
+#my-hero-image{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#case-study-image{
+  width: 140%;
+  padding-right: 50%;
+
+}
+
+
+
+#case-study-button{
+  margin-right: 10%;
+}
+
+.bm-burger-button {
+  position: relative;
+  width: 36px;
+  height: 30px;
+  left: 80%;
+  top: 20px;
+}
+
+#header-section, #footer-section, #about-header{
+  margin-left: 0%;
+}
+
+.group{
+  margin-left: 2%;
+  margin-right: 0%;
+  width: 100%;
+}
+
+.main-headerText{
+  text-align: center;
+  margin-left: 5%;
+}
+
+.main-subText{
+  text-align: center;
+  font-size: 16px;
+  width: 75%;
+  margin-left: 13%;
+}
+
+#homepage-header-text{
+  text-align: center;
+  font-size: 40px;
+}
+
+#homepage-header-sub-text{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.project{
+  margin-right: 30%;
+}
+
+p{
+  width: 80%;
+}
+
+#banner-button{
+  margin-left: 35%;
+}
+
+#banner-button-2{
+  margin-left: 39%;
+}
+
+#banner-button-3{
+  margin-right: 20%;
+}
+
+.focal-image{
+  margin-Left: 25%;
+}
+
+.content-image{
+  width: 90%;
+}
+
+
+#result{
+  margin-left: 65%;
+}
+
+
+#tester{
+  margin-left: 30%;
+  width: 100%;
+}
+
+#section-sub-header{
+  width: 100%;
+  margin-left: 10%;
+}
+
+#preferenceTestMockup{
+  margin-left: 40%;
+  width: 50%;
+}
+
+.key-features{
+}
+
+.content{
+  margin-left: 20%;
+}
+
+.content-body{
+  width: 80%;
+}
+
+ul{
+  margin-left: 20%;
+}
+
+.pie-chart-metric{
+  margin-left: 20%;
+}
+
+
+
+.user-persona{
+  margin-bottom: 1.5em;
+  width: 100%;
+}
+
+#bio-text{
+  width: 100%;
+}
+
+
+.quote{
+  width: 100%;
+}
+
+/*.content-body{
+  text-align: center;
+}*/
+
+.case-study-section{
+  text-align: center;
+}
+
+#case-study-header{
+  margin-right: 10%;
+}
+
+#case-study-description{
+  margin-left: 5%;
+
+}
+
+.closer{
+  right: 0px;
+}
+
+
+#section-header{
+  margin-left: 10%;
+}
+
+#page-section-header{
+  width: 90%;
+}
+
+#about-body{
+  text-align: left;
+  margin-left: 5%;
+}
+
+.banner-link-image{
+  width: 70%;
+  margin-left: 15%;
+}
+
+
+.action-button{
+  margin-left: 0%;
+}
+
+
+
+.subheader-text{
+  width: 100%;
+}
+
+.subheader-content{
+  width: 100%;
+}
+
+.project-image{
+  display: block;
+  margin-right: 10%;
+  width: 120%;
+}
+
+footer{
+  width: 100%;
+}
+
+.footer-header{
+  text-align: center;
+}
+
+#footer-content{
+  font-size: 14px;
+
+}
+
+#contact-button{
+  margin-bottom: 5%;
+  margin-left: 35%;
+}
+
+.contact-footer{
+  margin-left: 0;
+}
+
+#user-flow-image{
+    width: 30%;
+    margin-right: 15%;
+}
+
+#user-flow-map{
+  margin-left: 25%;
+}
+
+#story-caption{
+  margin-left: 0%;
+  padding-right: 8%;
+  /*margin-right: 5%;*/
+}
+
+#userStories{
+  padding-left: 20%;
+}
+
+#wireframes{
+  width: 100%;
+  margin-left: 0%;
+  margin-right: 65%;
+}
+
+#aboutMe{
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 10%;
+}
+
+#mockups{
+  width: 80%;
+  margin-left: 12%;
+  margin-top: 15%;
+
+}
+#indent20percent{
+  margin-left: 0%;
+}
+
+#copyright{
+  width: 100%;
+  margin-left: 0%;
+}
+
+#persona-image{
+  padding: 0 5%;
+}
+
+
+#travelix-image{
+  width: 45%;
+  margin-left: 30%;
+  margin-top: 0%;
+}
+
+#magneg-image{
+  width: 45%;
+  margin-left: 29%;
+  margin-top: 0%;
+}
+
+#travelix-persona-image{
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.banner-description{
+  margin-left: 5%;
+}
+
+#magnegMockups{
+  width: 90%;
+  margin: 15% 20%;
+
+}
+
+.preference-test{
+  text-align: center;
+  margin-bottom: 10%;
+}
